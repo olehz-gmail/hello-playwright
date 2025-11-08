@@ -1,0 +1,38 @@
+{
+    "prettier.tabWidth": 2,
+    "prettier.singleQuote": true,
+    "prettier.trailingComma": "all",
+    "prettier.semi": true,
+    "prettier.bracketSameLine": true,
+    "prettier.printWidth": 100,
+    "editor.formatOnSave": true,
+    "editor.mouseWheelZoom": true,
+    "terminal.integrated.inheritEnv": false,
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.generateWithTypeAnnotation": true,
+    "python.analysis.inlayHints.callArgumentNames": "partial",
+    "python.analysis.inlayHints.functionReturnTypes": true,
+    "python.analysis.inlayHints.variableTypes": true,
+    "python.analysis.inlayHints.pytestParameters": true,
+    "python.analysis.includeAliasesFromUserFiles": true,
+    "workbench.editor.empty.hint": "hidden",
+    "redhat.telemetry.enabled": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "files.autoSave": "onFocusChange",
+    "totalTypeScript.hideAllTips": false,
+    "totalTypeScript.hideBasicTips": false
+}
